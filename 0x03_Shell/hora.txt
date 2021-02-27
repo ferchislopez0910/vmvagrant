@@ -1,0 +1,1 @@
+la ruta donde estoy parado es: /home/vagrant/0x03_Shell

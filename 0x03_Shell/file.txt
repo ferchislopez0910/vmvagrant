@@ -1,0 +1,90 @@
+total 8
+-rwxr-xr-x 1 vagrant vagrant 45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant  0 Feb  3 01:29 file.txt
+-rwxr-xr-x 1 vagrant vagrant 31 Feb  3 00:49 hello_user
+total 12
+-rwxr-xr-x 1 vagrant vagrant  45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 170 Feb  3 01:29 file.txt
+-rwxr-xr-x 1 vagrant vagrant  31 Feb  3 00:49 hello_user
+total 12
+-rwxr-xr-x 1 vagrant vagrant  45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 344 Feb  3 01:29 file.txt
+-rwxr-xr-x 1 vagrant vagrant  31 Feb  3 00:49 hello_user
+total 12
+-rwxr-xr-x 1 vagrant vagrant  45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 518 Feb  3 01:30 file.txt
+-rwxr-xr-x 1 vagrant vagrant  31 Feb  3 00:49 hello_user
+total 12
+-rwxr-xr-x 1 vagrant vagrant  45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 692 Feb  3 01:31 file.txt
+-rwxr-xr-x 1 vagrant vagrant  31 Feb  3 00:49 hello_user
+total 12
+-rwxr-xr-x 1 vagrant vagrant  45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 866 Feb  3 01:31 file.txt
+-rwxr-xr-x 1 vagrant vagrant  31 Feb  3 00:49 hello_user
+total 12
+-rwxr-xr-x 1 vagrant vagrant   45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 1040 Feb  3 01:35 file.txt
+-rwxr-xr-x 1 vagrant vagrant   31 Feb  3 00:49 hello_user
+total 12
+-rwxr-xr-x 1 vagrant vagrant   45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 1217 Feb  3 01:35 file.txt
+-rwxr-xr-x 1 vagrant vagrant   31 Feb  3 00:49 hello_user
+total 12
+-rwxr-xr-x 1 vagrant vagrant   45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 1394 Feb  3 01:35 file.txt
+-rwxr-xr-x 1 vagrant vagrant   31 Feb  3 00:49 hello_user
+total 20
+-rwxr-xr-x 1 vagrant vagrant   45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 1571 Feb  3 01:35 file.txt
+-rwxr-xr-x 1 vagrant vagrant   31 Feb  3 00:49 hello_user
+-rw-rw-r-- 1 vagrant vagrant   56 Feb  3 01:44 hora.txt
+-rw-rw-r-- 1 vagrant vagrant   15 Feb  3 01:37 prueba.txt
+total 20
+-rwxr-xr-x 1 vagrant vagrant   45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 1862 Feb  3 01:56 file.txt
+-rwxr-xr-x 1 vagrant vagrant   31 Feb  3 00:49 hello_user
+-rw-rw-r-- 1 vagrant vagrant   56 Feb  3 01:44 hora.txt
+-rw-rw-r-- 1 vagrant vagrant   15 Feb  3 01:37 prueba.txt
+total 20
+-rwxr-xr-x 1 vagrant vagrant   45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 2153 Feb  3 01:56 file.txt
+-rwxr-xr-x 1 vagrant vagrant   31 Feb  3 00:49 hello_user
+-rw-rw-r-- 1 vagrant vagrant   56 Feb  3 01:44 hora.txt
+-rw-rw-r-- 1 vagrant vagrant   15 Feb  3 01:37 prueba.txt
+total 20
+-rwxr-xr-x 1 vagrant vagrant   45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 2444 Feb  3 01:56 file.txt
+-rwxr-xr-x 1 vagrant vagrant   31 Feb  3 00:49 hello_user
+-rw-rw-r-- 1 vagrant vagrant   56 Feb  3 01:44 hora.txt
+-rw-rw-r-- 1 vagrant vagrant   15 Feb  3 01:37 prueba.txt
+total 20
+-rwxr-xr-x 1 vagrant vagrant   45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 2735 Feb  3 01:56 file.txt
+-rwxr-xr-x 1 vagrant vagrant   31 Feb  3 00:49 hello_user
+-rw-rw-r-- 1 vagrant vagrant   56 Feb  3 01:44 hora.txt
+-rw-rw-r-- 1 vagrant vagrant   15 Feb  3 01:37 prueba.txt
+total 20
+-rwxr-xr-x 1 vagrant vagrant   45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 3026 Feb  3 01:57 file.txt
+-rwxr-xr-x 1 vagrant vagrant   31 Feb  3 00:49 hello_user
+-rw-rw-r-- 1 vagrant vagrant   56 Feb  3 01:44 hora.txt
+-rw-rw-r-- 1 vagrant vagrant   15 Feb  3 01:37 prueba.txt
+total 20
+-rwxr-xr-x 1 vagrant vagrant   45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 3317 Feb  3 01:57 file.txt
+-rwxr-xr-x 1 vagrant vagrant   31 Feb  3 00:49 hello_user
+-rw-rw-r-- 1 vagrant vagrant   56 Feb  3 01:44 hora.txt
+-rw-rw-r-- 1 vagrant vagrant   15 Feb  3 01:37 prueba.txt
+total 20
+-rwxr-xr-x 1 vagrant vagrant   45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 3608 Feb  3 01:57 file.txt
+-rwxr-xr-x 1 vagrant vagrant   31 Feb  3 00:49 hello_user
+-rw-rw-r-- 1 vagrant vagrant   56 Feb  3 01:44 hora.txt
+-rw-rw-r-- 1 vagrant vagrant   15 Feb  3 01:37 prueba.txt
+total 20
+-rwxr-xr-x 1 vagrant vagrant   45 Feb  3 01:04 2_path
+-rw-rw-r-- 1 vagrant vagrant 3899 Feb  3 01:57 file.txt
+-rwxr-xr-x 1 vagrant vagrant   31 Feb  3 00:49 hello_user
+-rw-rw-r-- 1 vagrant vagrant   56 Feb  3 01:44 hora.txt
+-rw-rw-r-- 1 vagrant vagrant   15 Feb  3 01:37 prueba.txt
